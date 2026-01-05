@@ -1,0 +1,7 @@
+{
+  "name": "License Generator",
+  "description": "A professional administrative dashboard for generating unique license keys for ESP32 devices with expiration dates and MAC address binding.create by VDPHACKER , a young full stack developper",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
